@@ -13,7 +13,8 @@ class SolarSystem extends Component {
           planetName={ name }
           planetImage={ image }
         />))}
-      </div>);
+      </div>
+    );
   }
 }
 
